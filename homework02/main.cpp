@@ -345,7 +345,7 @@ void ScoreSorter::expdata(quint8 list)
 
 {
 
-    QFile file("sorted_"+path);
+    QFile file("E:/Qt/0222wyy/homework02/sorted_data.txt");
 
     file.open(QIODevice::ReadWrite | QIODevice::Append);
 
