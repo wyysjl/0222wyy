@@ -1,1 +1,1 @@
-https://github.com/wyysjl/0222wyy.git¡£¡£¡£
+https://github.com/wyysjl/0222wyy.git
